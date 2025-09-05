@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://bestoaloe.gitee.io/bestoaloe/sitemap.xml
+Sitemap: https://bestoaloe.gitee.io/sitemap.xml
